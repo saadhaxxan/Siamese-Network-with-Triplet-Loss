@@ -1,4 +1,4 @@
-<h1 align="center">Siamese Network with Triplet Los</h1>
+<h1 align="center">Siamese Network with Triplet Loss</h1>
 
 <a href="#">
   <div align="center">
